@@ -19,6 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Grid View merupakan salah satu layouting widget atau widget invisivble yang dapat mengkontrol tata letak dari sebuah widget.
 
+![Capture](https://github.com/appworkspaceRM/widget-grid-view/assets/135511281/50953832-f19e-496e-8682-bb24f999568e)
+
+
 - cross axis count digunakan untuk mengatur seberapa banyak widget secara horizontal.
 - main axis space digunakan untuk mengatur jarak secara vertical
 - cross axis space digunakan untuk mengatur jarak secara horizontal
@@ -79,4 +82,5 @@ class MyApp extends StatelessWidget {
 }
 
 ```
+![code-snapshot](https://github.com/appworkspaceRM/widget-grid-view/assets/135511281/2b4a4b1e-cefa-4786-ab6c-1b0c09bb2f56)
 
